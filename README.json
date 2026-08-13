@@ -1,0 +1,683 @@
+{
+  "items": [
+    {
+      "description": "Approaches that supervise the model's explanations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "e-SNLI: natural language inference with natural language explanations Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-29T08:21:03Z",
+            "owner": "OanaMariaCamburu",
+            "repo": "e-SNLI",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e-SNLI: Natural Language Inference with Natural Language Explanations Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, Phil Blunsom; NeurIPS 2018 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-29T08:21:03Z",
+            "owner": "OanaMariaCamburu",
+            "repo": "e-SNLI",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interpretations are useful: penalizing explanations to align neural networks with prior knowledge Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-22T02:10:12Z",
+            "owner": "laura-rieger",
+            "repo": "deep-explanation-penalization",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Right for the right reasons: training differentiable models by constraining their explanations Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-29T16:56:07Z",
+            "owner": "dtak",
+            "repo": "rrr",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; Nature Machine Intelligence 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-18T16:06:22Z",
+            "owner": "alinajadebarnett",
+            "repo": "iaiabl",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spurious features everywhere-large-scale detection of harmful spurious features in imagenet Yannic Neuhaus, Maximilian Augustin, Valentyn Boreiko, Matthias Hein; ICCV 2023 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-22T15:20:24Z",
+            "owner": "YanNeu",
+            "repo": "spurious_imagenet",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding and removing Clever Hans: Using explanation methods to debug and improve deep models Christopher Anders, Leander Weber, David Neumann, Wojciech Samek, Klaus-Robert Müller, Klaus-Robert, Sebastian Lapuschkin; Information Fusion 2022 paper",
+          "description": "code code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T09:49:06Z",
+            "owner": "virelay",
+            "repo": "virelay",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph Gonzalez, Marcus Rohrbach; ICLR 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-10T11:05:24Z",
+            "owner": "SaynaEbrahimi",
+            "repo": "Remembering-for-the-Right-Reasons",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Faithfully Rationalize by Construction Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:28:13Z",
+            "owner": "successar",
+            "repo": "FRESH",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deriving Machine Attention from Human Rationales Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-15T15:51:59Z",
+            "owner": "YujiaBao",
+            "repo": "R2A",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Explanations to Guide Models Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; ICCV 2023 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T08:52:38Z",
+            "owner": "sukrutrao",
+            "repo": "Model-Guidance",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Robust Classification Model by Counterfactual and Invariant Data Generation Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-29T15:19:14Z",
+            "owner": "zzzace2000",
+            "repo": "robust_cls_model",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data Peter Hase, Mohit Bansal; arXiv 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-16T03:24:15Z",
+            "owner": "peterbhase",
+            "repo": "ExplanationRoles",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLocalX-From Local to Global Explanations of Black Box AI Models Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 page",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-11T10:49:51Z",
+            "owner": "msetzu",
+            "repo": "glocalx",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience George Chrysostomou, Nikolaos Aletras; arXiv 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-23T09:55:35Z",
+            "owner": "GChrysostomou",
+            "repo": "saloss",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explain and Predict, and then Predict Again Zijian Zhang, Koustav Rudra, Avishek Anand; WSDM 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-24T13:24:22Z",
+            "owner": "JoshuaGhost",
+            "repo": "expred",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning credible models Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-27T09:04:49Z",
+            "owner": "nathanwang000",
+            "repo": "credible_learning",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervising Model Attention with Human Explanations for Robust Natural Language Inference Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-17T08:23:23Z",
+            "owner": "joestacey",
+            "repo": "NLI_with_a_human_touch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saliency is a possible red herring when diagnosing poor generalization Joseph Viviano, Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; ICLR 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-09T20:17:10Z",
+            "owner": "josephdviviano",
+            "repo": "saliency-red-herring",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives Zhuofan Ying, Peter Hase, and Mohit Bansal; arXiv 2022 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-23T02:52:23Z",
+            "owner": "zfying",
+            "repo": "visfis",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates Xiaochuang Han, Yulia Tsvetkov; arXiv 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-12-06T15:55:45Z",
+            "owner": "xhan77",
+            "repo": "influence-tuning",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global Explanations with Decision Rules: a Co-learning Approach Géraldin Nanfack, Paul Temple, Benoît Frénay1; UAI 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-26T14:52:35Z",
+            "owner": "gerald4",
+            "repo": "Co-learning_with_STruGMA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Targeted Activation Penalties Help CNNs Ignore Spurious Signals Dekai Zhang, Matt Williams, Francesca Toni; AAAI 2024 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T16:42:55Z",
+            "owner": "dkaizhang",
+            "repo": "TAP",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; UAI 2022 paper",
+          "description": "code",
+          "children": []
+        }
+      ],
+      "title": "Passive Learning"
+    },
+    {
+      "description": "Approaches that combine supervision on the explanations with interactive machine learning:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Active Learning by Acquiring Contrastive Examples Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras; EMNLP 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-24T23:13:15Z",
+            "owner": "mourga",
+            "repo": "contrastive-active-learning",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; CVPR 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-22T09:14:35Z",
+            "owner": "ml-research",
+            "repo": "NeSyXIL",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explanatory Interactive Machine Learning Stefano Teso, Kristian Kersting; AIES 2019 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-30T17:48:33Z",
+            "owner": "stefanoteso",
+            "repo": "caipi",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Rationale-Centric Framework for Human-in-the-loop Machine Learning Jinghui Lu, Linyi Yang, Brian Mac Namee, Yue Zhang; ACL 2022 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-29T07:26:29Z",
+            "owner": "GeorgeLuImmortal",
+            "repo": "RDL-Rationales-centric-Double-robustness-Learning",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concept-level Debugging of Part-prototype Networks Andrea Bontempelli, Stefano Teso, Fausto Giunchiglia, Andrea Passerini; ICLR 2023 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T14:30:37Z",
+            "owner": "abonte",
+            "repo": "protopdebug",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refining Neural Networks with Compositional Explanations Huihan Yao, Ying Chen, Qinyuan Ye, Xisen Jin, Xiang Ren; arXiv 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-25T23:16:41Z",
+            "owner": "INK-USC",
+            "repo": "expl-refinement",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Label Cleaning with Example-based Explanations Stefano Teso, Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini; NeurIPS 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-26T16:42:18Z",
+            "owner": "abonte",
+            "repo": "cincer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Making deep neural networks right for the right scientific reasons by interacting with their explanations Patrick Schramowski, Wolfgang Stammer, Stefano Teso, Anna Brugger, Franziska Herbert, Xiaoting Shao, Hans-Georg Luigs, Anne-Katrin Mahlein, Kristian Kersting; Nature Machine Intelligence 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:16:53Z",
+            "owner": "ml-research",
+            "repo": "XIL",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets Stefano Teso; IAL Workshop 2019. paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:16:07Z",
+            "owner": "stefanoteso",
+            "repo": "calimocho",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Guides, Human Supervises: Interactive Learning with Global Explanations Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-17T08:30:37Z",
+            "owner": "tpopordanoska",
+            "repo": "explanatory-guided-learning",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cost-effective Interactive Attention Learning with Neural Attention Process Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-06T09:57:58Z",
+            "owner": "jayheo",
+            "repo": "IAL",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bandits for Learning to Explain from Explanations Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-08T11:05:13Z",
+            "owner": "stefanoteso",
+            "repo": "explearner-simpler",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HILDIF: Interactive Debugging of NLI Models Using Influence Functions Hugo Zylberajch, Piyawat Lertvittayakumjorn, Francesca Toni; InterNLP Workshop 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-05T16:37:27Z",
+            "owner": "hugozylberajch",
+            "repo": "HILDIF",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Interactive Learning"
+    },
+    {
+      "description": "Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong Jae Lee, Matt Feiszli, Deepti Ghadiyaram; CVPR 2020 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-01T16:43:01Z",
+            "owner": "princetonvisualai",
+            "repo": "ContextualBias",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explainable Models with Consistent Interpretations Vipin Pillai, Hamed Pirsiavash; AAAI 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-05T18:28:58Z",
+            "owner": "UMBCvision",
+            "repo": "Explainable-Models-with-Consistent-Interpretations",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Deep Learning Interpretability by Saliency Guided Training Aya Abdelsalam Ismail, Hector Corrada Bravo, Soheil Feizi; NeurIPS 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-29T05:27:02Z",
+            "owner": "ayaabdelsalam91",
+            "repo": "saliency_guided_training",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Regularization without Supervision"
+    },
+    {
+      "description": "A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Benchmark for Interpretability Methods in Deep Neural Networks Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanity checks for saliency maps Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-21T22:01:14Z",
+            "owner": "adebayoj",
+            "repo": "sanity_checks_saliency",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI for radiographic COVID-19 detection selects shortcuts over signal Alex DeGrave, Joseph Janizek, Su-In Lee; Nature Machine Intelligence 2021 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-19T17:21:08Z",
+            "owner": "suinleelab",
+            "repo": "cxr_covid",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Post hoc explanations may be ineffective for detecting unknown spurious correlation Julius Adebayo, Michael Muelly, Harold Abelson, and Been Kim; ICLR 2022 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-07T14:48:03Z",
+            "owner": "adebayoj",
+            "repo": "posthocspurious",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome machine learning interpretability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-03T15:17:31Z",
+            "owner": "jphall663",
+            "repo": "awesome-machine-learning-interpretability",
+            "stars": 4052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome explainable AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-03-07T11:27:21Z",
+            "owner": "wangyongjie-ntu",
+            "repo": "Awesome-explainable-AI",
+            "stars": 1649
+          }
+        }
+      ],
+      "title": "Related Lists"
+    },
+    {
+      "description": "This list is directly inspired by all the awesome awesome lists out there!",
+      "items": [],
+      "title": "Comments"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:03.745Z",
+    "original_repository": "stefanoteso/awesome-explanatory-supervision",
+    "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
+    "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
+    "enhanced_repository_description": null,
+    "title": "Awesome Explanatory Supervision with stars"
+  }
+}
