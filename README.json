@@ -581,10 +581,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T07:51:07Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38529
+            "stars": 38531
           }
         },
         {
@@ -646,7 +646,7 @@
             "last_commit": "2026-06-03T15:17:31Z",
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4053
+            "stars": 4055
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-03-07T11:27:21Z",
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1649
+            "stars": 1650
           }
         }
       ],
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:27:09.731Z",
+    "last_updated": "2026-08-14T17:24:52.901Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
     "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
