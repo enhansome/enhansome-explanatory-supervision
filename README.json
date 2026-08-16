@@ -584,7 +584,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38545
           }
         },
         {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:47:28.722Z",
+    "last_updated": "2026-08-16T16:48:09.584Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
     "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
