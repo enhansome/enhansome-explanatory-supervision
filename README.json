@@ -584,7 +584,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38562
+            "stars": 38575
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-03-07T11:27:21Z",
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1650
+            "stars": 1649
           }
         }
       ],
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:52:37.515Z",
+    "last_updated": "2026-08-18T16:56:01.245Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
     "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
