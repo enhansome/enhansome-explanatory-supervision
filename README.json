@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154048758,
             "language": "Python",
             "last_commit": "2022-04-29T08:21:03Z",
             "owner": "OanaMariaCamburu",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154048758,
             "language": "Python",
             "last_commit": "2022-04-29T08:21:03Z",
             "owner": "OanaMariaCamburu",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170393886,
             "language": "Jupyter Notebook",
             "last_commit": "2021-03-22T02:10:12Z",
             "owner": "laura-rieger",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82691295,
             "language": "Jupyter Notebook",
             "last_commit": "2020-12-29T16:56:07Z",
             "owner": "dtak",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416535566,
             "language": "Python",
             "last_commit": "2022-02-18T16:06:22Z",
             "owner": "alinajadebarnett",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575465963,
             "language": "Python",
             "last_commit": "2023-08-22T15:20:24Z",
             "owner": "YanNeu",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329024798,
             "language": "Python",
             "last_commit": "2026-04-30T09:49:06Z",
             "owner": "virelay",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301091816,
             "language": "Python",
             "last_commit": "2021-08-10T11:05:24Z",
             "owner": "SaynaEbrahimi",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260775266,
             "language": "Python",
             "last_commit": "2023-06-12T21:28:13Z",
             "owner": "successar",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145450445,
             "language": "Python",
             "last_commit": "2019-02-15T15:51:59Z",
             "owner": "YujiaBao",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680267864,
             "language": "Python",
             "last_commit": "2023-11-01T08:52:38Z",
             "owner": "sukrutrao",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352649148,
             "language": "Python",
             "last_commit": "2021-07-29T15:19:14Z",
             "owner": "zzzace2000",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335748815,
             "language": "Python",
             "last_commit": "2021-02-16T03:24:15Z",
             "owner": "peterbhase",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311701318,
             "language": "HTML",
             "last_commit": "2022-11-11T10:49:51Z",
             "owner": "msetzu",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393379483,
             "language": "Python",
             "last_commit": "2021-12-23T09:55:35Z",
             "owner": "GChrysostomou",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324762651,
             "language": "Python",
             "last_commit": "2023-07-24T13:24:22Z",
             "owner": "JoshuaGhost",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116414924,
             "language": "Python",
             "last_commit": "2023-05-27T09:04:49Z",
             "owner": "nathanwang000",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435602030,
             "language": "Python",
             "last_commit": "2022-03-17T08:23:23Z",
             "owner": "joestacey",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336407340,
             "language": "Jupyter Notebook",
             "last_commit": "2023-02-09T20:17:10Z",
             "owner": "josephdviviano",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506303590,
             "language": "Python",
             "last_commit": "2022-06-23T02:52:23Z",
             "owner": "zfying",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404167097,
             "language": "Jupyter Notebook",
             "last_commit": "2021-12-06T15:55:45Z",
             "owner": "xhan77",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254826350,
             "language": "Python",
             "last_commit": "2021-11-26T14:52:35Z",
             "owner": "gerald4",
@@ -318,18 +340,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693698165,
             "language": "Python",
             "last_commit": "2024-05-03T16:42:55Z",
             "owner": "dkaizhang",
             "repo": "TAP",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; UAI 2022 paper",
-          "description": "code",
-          "children": []
         }
       ],
       "title": "Passive Learning"
@@ -344,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401386837,
             "language": "Python",
             "last_commit": "2022-05-24T23:13:15Z",
             "owner": "mourga",
@@ -358,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344822398,
             "language": "Python",
             "last_commit": "2021-06-22T09:14:35Z",
             "owner": "ml-research",
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105763907,
             "language": "Python",
             "last_commit": "2020-05-30T17:48:33Z",
             "owner": "stefanoteso",
@@ -386,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465317188,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-29T07:26:29Z",
             "owner": "GeorgeLuImmortal",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498341131,
             "language": "Python",
             "last_commit": "2023-05-09T14:30:37Z",
             "owner": "abonte",
@@ -414,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348973802,
             "language": "Python",
             "last_commit": "2021-10-25T23:16:41Z",
             "owner": "INK-USC",
@@ -428,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374675431,
             "language": "Python",
             "last_commit": "2021-10-26T16:42:18Z",
             "owner": "abonte",
@@ -442,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235546720,
             "language": "Python",
             "last_commit": "2024-07-25T10:16:53Z",
             "owner": "ml-research",
@@ -456,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160043483,
             "language": "Python",
             "last_commit": "2023-03-24T23:16:07Z",
             "owner": "stefanoteso",
@@ -470,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222320395,
             "language": "Python",
             "last_commit": "2020-09-17T08:30:37Z",
             "owner": "tpopordanoska",
@@ -484,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277499898,
             "language": "Python",
             "last_commit": "2020-07-06T09:57:58Z",
             "owner": "jayheo",
@@ -498,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301706283,
             "language": "Jupyter Notebook",
             "last_commit": "2021-02-08T11:05:13Z",
             "owner": "stefanoteso",
@@ -512,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374341089,
             "language": "Python",
             "last_commit": "2021-07-05T16:37:27Z",
             "owner": "hugozylberajch",
@@ -532,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303502467,
             "language": "Python",
             "last_commit": "2021-06-01T16:43:01Z",
             "owner": "princetonvisualai",
@@ -546,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327597262,
             "language": "Python",
             "last_commit": "2022-04-05T18:28:58Z",
             "owner": "UMBCvision",
@@ -560,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420748599,
             "language": "Python",
             "last_commit": "2021-11-29T05:27:02Z",
             "owner": "ayaabdelsalam91",
@@ -571,6 +604,42 @@
       "title": "Regularization without Supervision"
     },
     {
+      "description": "Explanation-based learning, focuses on logic-based formalisms and learning strategies:\nInjecting invariances / feature constraints into models:\nDual label-feature feedback:\nLearning from rationales:\nCounterfactual augmentation:\nCritiquing in recommenders:\nGray-box models:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning The Difference That Makes A Difference With Counterfactually-Augmented Data Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210989000,
+            "language": null,
+            "last_commit": "2021-04-26T17:51:50Z",
+            "owner": "acmi-lab",
+            "repo": "counterfactually-augmented-data",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining the Efficacy of Counterfactually Augmented Data Divyansh Kaushik, Amrith Setlur, Eduard H. Hovy, Zachary Lipton; ICLR 2021. paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210989000,
+            "language": null,
+            "last_commit": "2021-04-26T17:51:50Z",
+            "owner": "acmi-lab",
+            "repo": "counterfactually-augmented-data",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Related Works"
+    },
+    {
       "description": "A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:",
       "items": [
         {
@@ -580,11 +649,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151619717,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38575
+            "stars": 38579
           }
         },
         {
@@ -594,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144500356,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-21T22:01:14Z",
             "owner": "adebayoj",
@@ -608,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292875336,
             "language": "Jupyter Notebook",
             "last_commit": "2021-03-19T17:21:08Z",
             "owner": "suinleelab",
@@ -622,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470212726,
             "language": null,
             "last_commit": "2023-02-07T14:48:03Z",
             "owner": "adebayoj",
@@ -633,7 +706,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -642,11 +715,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138181193,
             "language": null,
             "last_commit": "2026-06-03T15:17:31Z",
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4058
+            "stars": 4059
           }
         },
         {
@@ -656,25 +730,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240843379,
             "language": "Markdown",
-            "last_commit": "2026-03-07T11:27:21Z",
+            "last_commit": "2026-08-19T02:09:45Z",
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1649
+            "stars": 1650
           }
         }
       ],
       "title": "Related Lists"
-    },
-    {
-      "description": "This list is directly inspired by all the awesome awesome lists out there!",
-      "items": [],
-      "title": "Comments"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:56:01.245Z",
+    "last_updated": "2026-08-19T12:26:33.933Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
+    "original_repository_id": 334714853,
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
     "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
     "enhanced_repository_description": null,
