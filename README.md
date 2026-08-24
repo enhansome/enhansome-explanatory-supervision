@@ -475,10 +475,10 @@ Learning from rationales:
 Counterfactual augmentation:
 
 * **Learning The Difference That Makes A Difference With Counterfactually-Augmented Data**
-  Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 [paper](https://openreview.net/pdf?id=Sklgs0NFvr) [code](https://github.com/dkaushik96/counterfactually-augmented-data) ⭐ 172 | 🐛 2 | 📅 2021-04-26
+  Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 [paper](https://openreview.net/pdf?id=Sklgs0NFvr) [code](https://github.com/dkaushik96/counterfactually-augmented-data) ⭐ 173 | 🐛 2 | 📅 2021-04-26
 
 * **Explaining the Efficacy of Counterfactually Augmented Data**
-  Divyansh Kaushik, Amrith Setlur, Eduard H. Hovy, Zachary Lipton; ICLR 2021. [paper](https://openreview.net/pdf?id=HHiiQKWsOcV) [code](https://github.com/acmi-lab/counterfactually-augmented-data) ⭐ 172 | 🐛 2 | 📅 2021-04-26
+  Divyansh Kaushik, Amrith Setlur, Eduard H. Hovy, Zachary Lipton; ICLR 2021. [paper](https://openreview.net/pdf?id=HHiiQKWsOcV) [code](https://github.com/acmi-lab/counterfactually-augmented-data) ⭐ 173 | 🐛 2 | 📅 2021-04-26
 
 * **An Investigation of the (In)effectiveness of Counterfactually-augmented Data**
   Nitish Joshi, He He; arXiv 2021 [paper](https://arxiv.org/pdf/2107.00753)
@@ -587,7 +587,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 ### Related Lists
 
-* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,060 | 🐛 27 | 📅 2026-06-03
+* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,061 | 🐛 27 | 📅 2026-06-03
 
 * [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,649 | 🐛 0 | 🌐 Markdown | 📅 2026-08-19
 
