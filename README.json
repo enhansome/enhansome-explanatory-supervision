@@ -654,7 +654,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38614
           }
         },
         {
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:03:36.889Z",
+    "last_updated": "2026-08-25T06:29:58.150Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_id": 334714853,
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
