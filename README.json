@@ -654,7 +654,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38618
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-06-03T15:17:31Z",
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4061
+            "stars": 4060
           }
         },
         {
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:58.150Z",
+    "last_updated": "2026-08-25T17:03:47.405Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_id": 334714853,
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
