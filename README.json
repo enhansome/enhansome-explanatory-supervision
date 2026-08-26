@@ -651,10 +651,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38618
+            "stars": 38624
           }
         },
         {
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:03:47.405Z",
+    "last_updated": "2026-08-26T18:11:03.672Z",
     "original_repository": "stefanoteso/awesome-explanatory-supervision",
     "original_repository_id": 334714853,
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
