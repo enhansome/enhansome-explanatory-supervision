@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 154048758,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-29T08:21:03Z",
+            "open_issues": 4,
             "owner": "OanaMariaCamburu",
             "repo": "e-SNLI",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 154048758,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-29T08:21:03Z",
+            "open_issues": 4,
             "owner": "OanaMariaCamburu",
             "repo": "e-SNLI",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -42,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for using CDEP from the paper \"Interpretations are useful: penalizing explanations to align neural networks with prior knowledge\" https://arxiv.org/abs/1909.13584",
+            "homepage": null,
             "id": 170393886,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-03-22T02:10:12Z",
+            "open_issues": 1,
             "owner": "laura-rieger",
             "repo": "deep-explanation-penalization",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "cdep",
+              "convolutional-neural-network",
+              "data-science",
+              "deep-learning",
+              "explainability",
+              "explainable-ai",
+              "fairness",
+              "fairness-ml",
+              "feature-importance",
+              "interpretability",
+              "interpretable-deep-learning",
+              "jupyter-notebook",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "pytorch",
+              "recurrent-neural-network"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -58,12 +94,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code/figures in Right for the Right Reasons",
+            "homepage": "https://www.ijcai.org/proceedings/2017/371",
             "id": 82691295,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-12-29T16:56:07Z",
+            "open_issues": 3,
             "owner": "dtak",
             "repo": "rrr",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "interpretability"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -74,12 +117,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This code repository is associated with the paper \"A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography.\" Nature Machine Intelligence, 2021. https://www.nature.com/articles/s42256-021-00423-x",
+            "homepage": null,
             "id": 416535566,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-18T16:06:22Z",
+            "open_issues": 1,
             "owner": "alinajadebarnett",
             "repo": "iaiabl",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "interpretable",
+              "ml"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -90,12 +141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spurious Features Everywhere - Large-Scale Detection of Harmful Spurious Features in ImageNet",
+            "homepage": null,
             "id": 575465963,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-22T15:20:24Z",
+            "open_issues": 0,
             "owner": "YanNeu",
             "repo": "spurious_imagenet",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "benchmark",
+              "detection",
+              "imagenet",
+              "spurious-correlations",
+              "spurious-features",
+              "spurious-imagenet"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -106,12 +169,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ViRelAy is a visualization tool for the analysis of data as generated by CoRelAy.",
+            "homepage": null,
             "id": 329024798,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-30T09:49:06Z",
+            "open_issues": 6,
             "owner": "virelay",
             "repo": "virelay",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "angular",
+              "flask",
+              "interpretability",
+              "machine-learning",
+              "python",
+              "visualization",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -122,12 +198,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Remembering for the Right Reasons (ICLR 2021)",
+            "homepage": null,
             "id": 301091816,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-10T11:05:24Z",
+            "open_issues": 1,
             "owner": "SaynaEbrahimi",
             "repo": "Remembering-for-the-Right-Reasons",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "continual-learning",
+              "continual-learning-xai",
+              "lifelong-learning",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -138,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 260775266,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:28:13Z",
+            "open_issues": 1,
             "owner": "successar",
             "repo": "FRESH",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -154,12 +245,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Deriving Machine Attention from Human Rationales\" EMNLP 2018",
+            "homepage": "https://arxiv.org/pdf/1808.09367.pdf",
             "id": 145450445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-02-15T15:51:59Z",
+            "open_issues": 0,
             "owner": "YujiaBao",
             "repo": "R2A",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "attention-mechanism",
+              "emnlp2018",
+              "interpretable-machine-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -170,12 +271,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: Studying How to Efficiently and Effectively Guide Models with Explanations. ICCV 2023.",
+            "homepage": "https://openaccess.thecvf.com/content/ICCV2023/html/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.html",
             "id": 680267864,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-01T08:52:38Z",
+            "open_issues": 0,
             "owner": "sukrutrao",
             "repo": "Model-Guidance",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "explainability",
+              "iccv2023",
+              "model-guidance",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -186,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code to reproduce CVPR 2021 paper \"Towards Robust Classification Model by Counterfactual and Invariant Data Generation\"",
+            "homepage": null,
             "id": 352649148,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-29T15:19:14Z",
+            "open_issues": 1,
             "owner": "zzzace2000",
             "repo": "robust_cls_model",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -202,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data\"",
+            "homepage": null,
             "id": 335748815,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-16T03:24:15Z",
+            "open_issues": 0,
             "owner": "peterbhase",
             "repo": "ExplanationRoles",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -218,12 +341,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating global explanations from local ones",
+            "homepage": null,
             "id": 311701318,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-11T10:49:51Z",
+            "open_issues": 0,
             "owner": "msetzu",
             "repo": "glocalx",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "explainable-ai",
+              "global-explanation",
+              "local-explanations"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -234,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 393379483,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-23T09:55:35Z",
+            "open_issues": 0,
             "owner": "GChrysostomou",
             "repo": "saloss",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -250,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 324762651,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-24T13:24:22Z",
+            "open_issues": 2,
             "owner": "JoshuaGhost",
             "repo": "expred",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -266,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Learning Credible Models",
+            "homepage": "https://arxiv.org/pdf/1711.03190.pdf",
             "id": 116414924,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-27T09:04:49Z",
+            "open_issues": 0,
             "owner": "nathanwang000",
             "repo": "credible_learning",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -282,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 435602030,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-17T08:23:23Z",
+            "open_issues": 0,
             "owner": "joestacey",
             "repo": "NLI_with_a_human_touch",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -298,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Saliency is a Possible Red Herring When Diagnosing Poor Generalization, Viviano et al ICLR 2021",
+            "homepage": null,
             "id": 336407340,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-02-09T20:17:10Z",
+            "open_issues": 0,
             "owner": "josephdviviano",
             "repo": "saliency-red-herring",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -314,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytorch implementation of \"VisFIS: Improved Visual Feature Importance Supervision with Right-for-Right-Reason Objectives\"",
+            "homepage": null,
             "id": 506303590,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-23T02:52:23Z",
+            "open_issues": 1,
             "owner": "zfying",
             "repo": "visfis",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -330,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates",
+            "homepage": null,
             "id": 404167097,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-12-06T15:55:45Z",
+            "open_issues": 0,
             "owner": "xhan77",
             "repo": "influence-tuning",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -346,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 254826350,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-26T14:52:35Z",
+            "open_issues": 0,
             "owner": "gerald4",
             "repo": "Co-learning_with_STruGMA",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -362,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for our paper Targeted Activation Penalties Help CNNs Ignore Spurious Signals",
+            "homepage": null,
             "id": 693698165,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-03T16:42:55Z",
+            "open_issues": 0,
             "owner": "dkaizhang",
             "repo": "TAP",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -384,12 +561,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the EMNLP 2021 Paper \"Active Learning by Acquiring Contrastive Examples\" & the ACL 2022 Paper \"On the Importance of Effectively Adapting Pretrained Language Models for Active Learning\"",
+            "homepage": null,
             "id": 401386837,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-24T23:13:15Z",
+            "open_issues": 2,
             "owner": "mourga",
             "repo": "contrastive-active-learning",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "acquisition-functions",
+              "active-learning",
+              "deep-learning",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -400,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 344822398,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-22T09:14:35Z",
+            "open_issues": 0,
             "owner": "ml-research",
             "repo": "NeSyXIL",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -416,12 +608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAIPI turns LIMEs into trust!",
+            "homepage": null,
             "id": 105763907,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-30T17:48:33Z",
+            "open_issues": 0,
             "owner": "stefanoteso",
             "repo": "caipi",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "explainable-ai",
+              "interactive-learning",
+              "machine-learning",
+              "paper",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -432,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 465317188,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-06-29T07:26:29Z",
+            "open_issues": 0,
             "owner": "GeorgeLuImmortal",
             "repo": "RDL-Rationales-centric-Double-robustness-Learning",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -448,12 +656,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Concept-level Debugging of Part-Prototype Networks",
+            "homepage": null,
             "id": 498341131,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-09T14:30:37Z",
+            "open_issues": 0,
             "owner": "abonte",
             "repo": "protopdebug",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "concept-based-models",
+              "covid-19",
+              "cub200-2011",
+              "debugging",
+              "deep-learning",
+              "explainability",
+              "iclr2023",
+              "machine-learning",
+              "part-prototype-networks",
+              "protopnet",
+              "pytorch",
+              "self-explainable-networks"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -464,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Refining Language Model with Compositional Explanation\" (NeurIPS 2021)",
+            "homepage": null,
             "id": 348973802,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-25T23:16:41Z",
+            "open_issues": 0,
             "owner": "INK-USC",
             "repo": "expl-refinement",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -480,12 +711,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive Label Cleaning with Example-based Explanations",
+            "homepage": null,
             "id": 374675431,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-26T16:42:18Z",
+            "open_issues": 0,
             "owner": "abonte",
             "repo": "cincer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "deep-learning",
+              "example-based-explanations",
+              "interactive-learning",
+              "machine-learning",
+              "neurips-2021"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -496,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 235546720,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-25T10:16:53Z",
+            "open_issues": 1,
             "owner": "ml-research",
             "repo": "XIL",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -512,12 +759,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explanatory Interactive Machine Learning with Self-explaining Neural Networks",
+            "homepage": null,
             "id": 160043483,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-24T23:16:07Z",
+            "open_issues": 2,
             "owner": "stefanoteso",
             "repo": "calimocho",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "explainable-ai",
+              "interactive-learning",
+              "machine-learning",
+              "neural-nets",
+              "paper",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -528,12 +787,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for “Machine Guides, Human Supervises: Interactive Learning with Global Explanations”.",
+            "homepage": null,
             "id": 222320395,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-17T08:30:37Z",
+            "open_issues": 0,
             "owner": "tpopordanoska",
             "repo": "explanatory-guided-learning",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "active-learning",
+              "explainable-ai"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -544,12 +811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 277499898,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-06T09:57:58Z",
+            "open_issues": 0,
             "owner": "jayheo",
             "repo": "IAL",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -560,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 301706283,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-02-08T11:05:13Z",
+            "open_issues": 0,
             "owner": "stefanoteso",
             "repo": "explearner-simpler",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -576,12 +853,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HILDIF library (InterNLP 2021 Worshop)",
+            "homepage": null,
             "id": 374341089,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-05T16:37:27Z",
+            "open_issues": 0,
             "owner": "hugozylberajch",
             "repo": "HILDIF",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -598,12 +880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Re] Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias (ML Reproducibility Challenge 2020)",
+            "homepage": null,
             "id": 303502467,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-01T16:43:01Z",
+            "open_issues": 0,
             "owner": "princetonvisualai",
             "repo": "ContextualBias",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -614,12 +901,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the AAAI-21 paper 'Explainable Models with Consistent Interpretations'",
+            "homepage": null,
             "id": 327597262,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-05T18:28:58Z",
+            "open_issues": 0,
             "owner": "UMBCvision",
             "repo": "Explainable-Models-with-Consistent-Interpretations",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "computer-vision",
+              "deep-neural-networks",
+              "explainability",
+              "explainable-ai",
+              "explainable-models",
+              "interpretability",
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -630,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 420748599,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-29T05:27:02Z",
+            "open_issues": 0,
             "owner": "ayaabdelsalam91",
             "repo": "saliency_guided_training",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -652,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning the Difference that Makes a Difference with Counterfactually-Augmented Data",
+            "homepage": "http://arxiv.org/abs/1909.12434",
             "id": 210989000,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-04-26T17:51:50Z",
+            "open_issues": 2,
             "owner": "acmi-lab",
             "repo": "counterfactually-augmented-data",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -668,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning the Difference that Makes a Difference with Counterfactually-Augmented Data",
+            "homepage": "http://arxiv.org/abs/1909.12434",
             "id": 210989000,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-04-26T17:51:50Z",
+            "open_issues": 2,
             "owner": "acmi-lab",
             "repo": "counterfactually-augmented-data",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -690,12 +1006,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38642
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -706,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 144500356,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-11-21T22:01:14Z",
+            "open_issues": 11,
             "owner": "adebayoj",
             "repo": "sanity_checks_saliency",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -722,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"AI for radiographic COVID-19 detection selects shortcuts over signal\"",
+            "homepage": null,
             "id": 292875336,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-19T17:21:08Z",
+            "open_issues": 1,
             "owner": "suinleelab",
             "repo": "cxr_covid",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -738,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 470212726,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-02-07T14:48:03Z",
+            "open_issues": 2,
             "owner": "adebayoj",
             "repo": "posthocspurious",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -760,12 +1100,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome responsible machine learning resources.",
+            "homepage": null,
             "id": 138181193,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-03T15:17:31Z",
+            "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4062
+            "stars": 4062,
+            "topics": [
+              "ai-safety",
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "explainable-ml",
+              "fairness",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-machine-learning",
+              "interpretable-ml",
+              "machine-learning",
+              "machine-learning-interpretability",
+              "privacy-enhancing-technologies",
+              "privacy-preserving-machine-learning",
+              "python",
+              "r",
+              "reliable-ai",
+              "secure-ml",
+              "transparency",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         },
@@ -776,12 +1142,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A  collection of research materials on explainable AI/ML",
+            "homepage": null,
             "id": 240843379,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-19T02:09:45Z",
+            "open_issues": 0,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1649
+            "stars": 1649,
+            "topics": [
+              "counterfactual-explanations",
+              "explainable-ai",
+              "explanation-system",
+              "interpretability",
+              "interpretable-ai",
+              "recourse",
+              "xai",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
         }
@@ -790,15 +1170,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:36:28.735Z",
+    "last_updated": "2026-08-29T04:55:01.764Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of relevant resources for machine learning from explanatory supervision",
+      "homepage": null,
       "id": 334714853,
       "language": "TeX",
+      "license": null,
       "last_commit": "2025-07-14T14:25:00Z",
+      "open_issues": 1,
       "owner": "stefanoteso",
       "repo": "awesome-explanatory-supervision",
-      "stars": 167
+      "stars": 167,
+      "topics": [
+        "active-learning",
+        "awesome-list",
+        "explainable-ai",
+        "explanatory-supervision",
+        "interactive-learning",
+        "machine-learning",
+        "machine-teaching"
+      ]
     },
     "original_repository_sha": "2d16ae44c2ab0dfb6fd05770c66d6375a0eace27",
     "enhanced_repository": "enhansome/enhansome-explanatory-supervision",
