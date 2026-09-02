@@ -1015,7 +1015,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38670,
+            "stars": 38680,
             "topics": [
               "ai",
               "machine-learning",
@@ -1151,7 +1151,7 @@
             "open_issues": 1,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "counterfactual-explanations",
               "explainable-ai",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:27:32.334Z",
+    "last_updated": "2026-09-02T19:26:16.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
