@@ -589,7 +589,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 * [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,064 | 🐛 27 | 📅 2026-06-03
 
-* [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,650 | 🐛 1 | 🌐 Markdown | 📅 2026-08-19
+* [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,652 | 🐛 1 | 🌐 Markdown | 📅 2026-08-19
 
 ***
 
@@ -613,4 +613,4 @@ This list is directly inspired by all the awesome awesome lists out there!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
