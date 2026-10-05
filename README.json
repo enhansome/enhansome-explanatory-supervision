@@ -1015,7 +1015,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38871,
+            "stars": 38873,
             "topics": [
               "ai",
               "machine-learning",
@@ -1109,7 +1109,7 @@
             "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4071,
+            "stars": 4070,
             "topics": [
               "ai-safety",
               "awesome",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:43:40.431Z",
+    "last_updated": "2026-10-05T22:48:15.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
