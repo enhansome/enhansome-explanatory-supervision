@@ -56,12 +56,12 @@ Approaches that supervise the model's explanations.
 * **Spurious features everywhere-large-scale detection of harmful spurious features in imagenet**
   Yannic Neuhaus, Maximilian Augustin, Valentyn Boreiko, Matthias Hein; ICCV 2023 [paper](http://openaccess.thecvf.com/content/ICCV2023/papers/Neuhaus_Spurious_Features_Everywhere_-_Large-Scale_Detection_of_Harmful_Spurious_Features_ICCV_2023_paper.pdf) [code](https://github.com/YanNeu/spurious_imagenet) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2023-08-22
 
-* **Finding and removing Clever Hans: Using explanation methods to debug and improve deep models**
-  Christopher Anders, Leander Weber, David Neumann, Wojciech Samek, Klaus-Robert Müller, Klaus-Robert, Sebastian Lapuschkin; Information Fusion 2022 [paper](https://www.sciencedirect.com/science/article/pii/S1566253521001573) [code](https://github.com/virelay/virelay) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-04-30 [code](https://github.com/virelay/corelay) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-04-30
-
 * **Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting**
   Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph Gonzalez, Marcus Rohrbach; ICLR 2020 [paper](https://openreview.net/pdf?id=tHgJoMfy6nI) [code](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-08-10
   `Notes: uses saliency guided replay for continual learning.`
+
+* **Finding and removing Clever Hans: Using explanation methods to debug and improve deep models**
+  Christopher Anders, Leander Weber, David Neumann, Wojciech Samek, Klaus-Robert Müller, Klaus-Robert, Sebastian Lapuschkin; Information Fusion 2022 [paper](https://www.sciencedirect.com/science/article/pii/S1566253521001573) [code](https://github.com/virelay/virelay) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-04-30 [code](https://github.com/virelay/corelay) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2026-04-30
 
 * **Learning to Faithfully Rationalize by Construction**
   Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2023-06-12
@@ -503,7 +503,7 @@ Gray-box models:
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
 * **A Benchmark for Interpretability Methods in Deep Neural Networks**
-  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,059 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-29
+  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,064 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
 
 * **Sanity checks for saliency maps**
   Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf) [code](https://github.com/adebayoj/sanity_checks_saliency) ⭐ 119 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-11-21
@@ -587,7 +587,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 ### Related Lists
 
-* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,079 | 🐛 27 | 📅 2026-06-03
+* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,080 | 🐛 27 | 📅 2026-06-03
 
 * [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,661 | 🐛 2 | 🌐 Markdown | 📅 2026-08-19
 
@@ -613,4 +613,4 @@ This list is directly inspired by all the awesome awesome lists out there!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
