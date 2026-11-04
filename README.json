@@ -1011,11 +1011,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T23:22:33Z",
-            "open_issues": 2009,
+            "last_commit": "2026-11-04T16:49:43Z",
+            "open_issues": 2010,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39101,
+            "stars": 39112,
             "topics": [
               "ai",
               "machine-learning",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:52:22.865Z",
+    "last_updated": "2026-11-04T22:00:47.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
