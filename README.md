@@ -503,7 +503,7 @@ Gray-box models:
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
 * **A Benchmark for Interpretability Methods in Deep Neural Networks**
-  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,145 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09
+  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,151 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09
 
 * **Sanity checks for saliency maps**
   Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf) [code](https://github.com/adebayoj/sanity_checks_saliency) ⭐ 119 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-11-21
