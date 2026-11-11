@@ -1011,11 +1011,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:10:16Z",
+            "last_commit": "2026-11-11T11:58:31Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39151,
+            "stars": 39159,
             "topics": [
               "ai",
               "machine-learning",
@@ -1109,7 +1109,7 @@
             "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4084,
+            "stars": 4085,
             "topics": [
               "ai-safety",
               "awesome",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:51:39.826Z",
+    "last_updated": "2026-11-11T22:52:56.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
