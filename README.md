@@ -70,7 +70,7 @@ Approaches that supervise the model's explanations.
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf) [code](https://github.com/YujiaBao/R2A) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2019-02-15
 
 * **Using Explanations to Guide Models**
-  Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [code](https://github.com/sukrutrao/Model-Guidance) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-11-01
+  Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [code](https://github.com/sukrutrao/Model-Guidance) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2023-11-01
 
 * **Towards Robust Classification Model by Counterfactual and Invariant Data Generation**
   Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2021-07-29
@@ -475,10 +475,10 @@ Learning from rationales:
 Counterfactual augmentation:
 
 * **Learning The Difference That Makes A Difference With Counterfactually-Augmented Data**
-  Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 [paper](https://openreview.net/pdf?id=Sklgs0NFvr) [code](https://github.com/dkaushik96/counterfactually-augmented-data) ⭐ 173 | 🐛 2 | 📅 2021-04-26
+  Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 [paper](https://openreview.net/pdf?id=Sklgs0NFvr) [code](https://github.com/dkaushik96/counterfactually-augmented-data) ⭐ 174 | 🐛 2 | 📅 2021-04-26
 
 * **Explaining the Efficacy of Counterfactually Augmented Data**
-  Divyansh Kaushik, Amrith Setlur, Eduard H. Hovy, Zachary Lipton; ICLR 2021. [paper](https://openreview.net/pdf?id=HHiiQKWsOcV) [code](https://github.com/acmi-lab/counterfactually-augmented-data) ⭐ 173 | 🐛 2 | 📅 2021-04-26
+  Divyansh Kaushik, Amrith Setlur, Eduard H. Hovy, Zachary Lipton; ICLR 2021. [paper](https://openreview.net/pdf?id=HHiiQKWsOcV) [code](https://github.com/acmi-lab/counterfactually-augmented-data) ⭐ 174 | 🐛 2 | 📅 2021-04-26
 
 * **An Investigation of the (In)effectiveness of Counterfactually-augmented Data**
   Nitish Joshi, He He; arXiv 2021 [paper](https://arxiv.org/pdf/2107.00753)
@@ -503,7 +503,7 @@ Gray-box models:
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
 * **A Benchmark for Interpretability Methods in Deep Neural Networks**
-  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,159 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-11
+  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark) ⭐ 39,162 | 🐛 2,012 | 🌐 Jupyter Notebook | 📅 2026-11-11
 
 * **Sanity checks for saliency maps**
   Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf) [code](https://github.com/adebayoj/sanity_checks_saliency) ⭐ 119 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-11-21
@@ -587,9 +587,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 ### Related Lists
 
-* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,085 | 🐛 27 | 📅 2026-06-03
+* [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,086 | 🐛 27 | 📅 2026-06-03
 
-* [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,661 | 🐛 2 | 🌐 Markdown | 📅 2026-08-19
+* [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,661 | 🐛 3 | 🌐 Markdown | 📅 2026-08-19
 
 ***
 
@@ -613,4 +613,4 @@ This list is directly inspired by all the awesome awesome lists out there!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

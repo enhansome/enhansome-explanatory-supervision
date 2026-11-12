@@ -280,7 +280,7 @@
             "open_issues": 0,
             "owner": "sukrutrao",
             "repo": "Model-Guidance",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -967,7 +967,7 @@
             "open_issues": 2,
             "owner": "acmi-lab",
             "repo": "counterfactually-augmented-data",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
@@ -988,7 +988,7 @@
             "open_issues": 2,
             "owner": "acmi-lab",
             "repo": "counterfactually-augmented-data",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:28.735Z"
@@ -1012,10 +1012,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2009,
+            "open_issues": 2012,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39159,
+            "stars": 39162,
             "topics": [
               "ai",
               "machine-learning",
@@ -1109,7 +1109,7 @@
             "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4085,
+            "stars": 4086,
             "topics": [
               "ai-safety",
               "awesome",
@@ -1148,7 +1148,7 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-08-19T02:09:45Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
             "stars": 1661,
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:52:56.093Z",
+    "last_updated": "2026-11-12T22:20:45.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
