@@ -1015,7 +1015,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39175,
+            "stars": 39182,
             "topics": [
               "ai",
               "machine-learning",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:50:02.461Z",
+    "last_updated": "2026-11-15T21:07:54.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
