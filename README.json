@@ -1011,11 +1011,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T15:37:23Z",
+            "last_commit": "2026-11-24T00:47:38Z",
             "open_issues": 2014,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39260,
+            "stars": 39269,
             "topics": [
               "ai",
               "machine-learning",
@@ -1148,10 +1148,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-08-19T02:09:45Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1660,
+            "stars": 1663,
             "topics": [
               "counterfactual-explanations",
               "explainable-ai",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:55:15.773Z",
+    "last_updated": "2026-11-24T02:58:39.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of relevant resources for machine learning from explanatory supervision",
